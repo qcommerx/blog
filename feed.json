@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://qcommerx.com.br/blog/os-principais-erros-de-seo-em-2022/",
+            "url": "https://qcommerx.com.br/blog/os-principais-erros-de-seo-em-2022/",
+            "title": "Os principais erros de SEO em 2022",
+            "summary": "Neste post vamos abordar mais uma vez sobre SEO. Muitos já sabem que SEO é importante para que a página do seu negócio apareça no&hellip;",
+            "content_html": "<p>Neste post vamos abordar mais uma vez sobre SEO.  Muitos já sabem que SEO é importante para que a página do seu negócio apareça no resultado de pesquisa Google.</p>\n<p>Em geral abordamos este tema em nosso post no <a href=\"https://www.instagram.com/p/CRoXHgrsjdP/?utm_source=ig_web_copy_link\" title=\"Os principais erros de SEO\" target=\"_blank\" rel=\"sponsored ugc noopener noreferrer\">Instagram</a> e você pode conferir de forma mais resumida lá.</p>\n<p>Basicamente quando trabalhamos com SEO, queremos que os mecanismos de pesquisa como por exemplo: Google, Bing e Yahoo possam encontrar sua pagina de vendas, serviços e blogs e para fazer com que isso aconteça devemos trabalhar por trás das cortinas, ou seja, diretamente no código-fonte da pagina e em cada pagina do seu site. </p>\n<p>Sem mais delongas, vamos aos principais erros de SEO:</p>\n<h2>Meta Description</h2>\n<p>Meta Description é um elemento em HTML que provê uma breve descrição do conteúdo da página. Essa é a descrição básica do seu site que aparece quando o Google mostra os resultados.  Aqui está um exemplo do nosso site!</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://qcommerx.com.br/blog/media/posts/2/meta-description.png\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://qcommerx.com.br/blog/media/posts/2/responsive/meta-description-xs.png 300w ,https://qcommerx.com.br/blog/media/posts/2/responsive/meta-description-sm.png 480w ,https://qcommerx.com.br/blog/media/posts/2/responsive/meta-description-md.png 768w\"  alt=\"Exemplo de Meta Description\" width=\"1060\" height=\"572\"></figure>\n<h2>Keywords</h2>\n<p>Aqui estão as famosas palavras-chave que tanto ouvimos falar, basicamente são as palavras inseridas na pagina e que estão separadas individualmente ou por termos pesquisados na Internet.</p>\n<p>Você pode inserir as palavras-chave que estão relacionadas com seu negócio, produto ou serviço, por exemplo: vendas, ecommerce e etc. Você pode ir testando varias palavras para otimizar e deixar somente o que está relativamente em alta ou que tem muita procura relacionada ao seu negócio.</p>\n<h2>Meta Title</h2>\n<p>Este é um código que deve ter bastante atenção, pois ele é o responsável por informar aos buscadores de pesquisa, do que se trata a página e também serve como atrativo para que o usuário se conecte ao seu site. </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://qcommerx.com.br/blog/media/posts/2/meta-title.png\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://qcommerx.com.br/blog/media/posts/2/responsive/meta-title-xs.png 300w ,https://qcommerx.com.br/blog/media/posts/2/responsive/meta-title-sm.png 480w ,https://qcommerx.com.br/blog/media/posts/2/responsive/meta-title-md.png 768w\"  alt=\"Exemplo de Meta Title\" width=\"1060\" height=\"572\"></figure>\n<p>Estes foram os principais erros de SEO que podem levar seu site a não ser encontrado pelos mecanismos de pesquisa e aqui estão algumas dicas que podem ajudar a otimizar o trafego no seu site e trazer mais receita para sua empresa.</p>\n<p>Caro leitor, não deixe de curtir nossas paginas no <a href=\"https://web.facebook.com/QCommerxBR/\" title=\"QCommerx Página do Facebook\" target=\"_blank\" rel=\"sponsored ugc noopener noreferrer\">Facebook </a>e <a href=\"https://www.instagram.com/qc.br/\" title=\"QCommerx Página do Instagram\" target=\"_blank\" rel=\"sponsored ugc noopener noreferrer\">Instagram</a>. </p>\n<p>Até mais! </p>",
+            "image": "https://qcommerx.com.br/blog/media/posts/2/blog_seo-post.jpg",
+            "author": {
+                "name": "Wladimir Silva Junior"
+            },
+            "tags": [
+                   "SEO",
+                   "Mecanismos de Pesquisa"
+            ],
+            "date_published": "2022-03-07T08:49:30-03:00",
+            "date_modified": "2022-03-07T23:03:30-03:00"
+        },
+        {
             "id": "https://qcommerx.com.br/blog/as-melhores-dicas-de-seo/",
             "url": "https://qcommerx.com.br/blog/as-melhores-dicas-de-seo/",
             "title": "As melhores dicas de SEO ",
